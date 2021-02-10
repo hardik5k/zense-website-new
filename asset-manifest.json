@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.00bc52a9.chunk.css",
-    "main.js": "/static/js/main.ffe22227.chunk.js",
-    "main.js.map": "/static/js/main.ffe22227.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.7ff762ff.js",
-    "runtime-main.js.map": "/static/js/runtime-main.7ff762ff.js.map",
-    "static/css/2.150d169a.chunk.css": "/static/css/2.150d169a.chunk.css",
-    "static/js/2.f9e245e6.chunk.js": "/static/js/2.f9e245e6.chunk.js",
-    "static/js/2.f9e245e6.chunk.js.map": "/static/js/2.f9e245e6.chunk.js.map",
-    "static/js/3.ef75c4e1.chunk.js": "/static/js/3.ef75c4e1.chunk.js",
-    "static/js/3.ef75c4e1.chunk.js.map": "/static/js/3.ef75c4e1.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.150d169a.chunk.css.map": "/static/css/2.150d169a.chunk.css.map",
-    "static/css/main.00bc52a9.chunk.css.map": "/static/css/main.00bc52a9.chunk.css.map",
-    "static/js/2.f9e245e6.chunk.js.LICENSE.txt": "/static/js/2.f9e245e6.chunk.js.LICENSE.txt",
-    "static/media/zense_logo.2f1ba197.png": "/static/media/zense_logo.2f1ba197.png"
+    "main.css": "/zense-website-new/static/css/main.00bc52a9.chunk.css",
+    "main.js": "/zense-website-new/static/js/main.c7f3eab8.chunk.js",
+    "main.js.map": "/zense-website-new/static/js/main.c7f3eab8.chunk.js.map",
+    "runtime-main.js": "/zense-website-new/static/js/runtime-main.373c5f93.js",
+    "runtime-main.js.map": "/zense-website-new/static/js/runtime-main.373c5f93.js.map",
+    "static/css/2.150d169a.chunk.css": "/zense-website-new/static/css/2.150d169a.chunk.css",
+    "static/js/2.ba119da2.chunk.js": "/zense-website-new/static/js/2.ba119da2.chunk.js",
+    "static/js/2.ba119da2.chunk.js.map": "/zense-website-new/static/js/2.ba119da2.chunk.js.map",
+    "static/js/3.ef75c4e1.chunk.js": "/zense-website-new/static/js/3.ef75c4e1.chunk.js",
+    "static/js/3.ef75c4e1.chunk.js.map": "/zense-website-new/static/js/3.ef75c4e1.chunk.js.map",
+    "index.html": "/zense-website-new/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/zense-website-new/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.00bc52a9.chunk.css.map": "/zense-website-new/static/css/main.00bc52a9.chunk.css.map",
+    "static/js/2.ba119da2.chunk.js.LICENSE.txt": "/zense-website-new/static/js/2.ba119da2.chunk.js.LICENSE.txt",
+    "static/media/zense_logo.2f1ba197.png": "/zense-website-new/static/media/zense_logo.2f1ba197.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.7ff762ff.js",
+    "static/js/runtime-main.373c5f93.js",
     "static/css/2.150d169a.chunk.css",
-    "static/js/2.f9e245e6.chunk.js",
+    "static/js/2.ba119da2.chunk.js",
     "static/css/main.00bc52a9.chunk.css",
-    "static/js/main.ffe22227.chunk.js"
+    "static/js/main.c7f3eab8.chunk.js"
   ]
 }
